@@ -1,2 +1,2 @@
-FROM mysql:5
+FROM percona:5
 MAINTAINER an.elebedevsky@gmail.com
